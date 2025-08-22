@@ -13,3 +13,5 @@ Cold Email Generator built with Streamlit, ChromaDB, and LangChain-Groq. Generat
    Run the following command in your project root:  
    ```bash
    pip install -r requirements.txt
+
+<img width="1803" height="832" alt="image" src="https://github.com/user-attachments/assets/056f5a6d-6662-42e1-b7c7-e1a5b56515e0" />
